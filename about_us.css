@@ -11,6 +11,16 @@
 .cards{
 	margin-top: 50px;
 }
+
+.card{
+	transition: all 0.2s;
+}
+
+.card:hover{
+	border-color: #FCACBF;
+	border-width: 3px;
+	transform: scale(1.02);
+}
 /*.about-us-cards{
 	display: flex;
 	justify-content: center;
