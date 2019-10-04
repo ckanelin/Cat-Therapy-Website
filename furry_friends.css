@@ -1,3 +1,8 @@
-#furry-friends{
-	margin-top: 50px;
+
+.furry-friends{
+	background-color: #444343;
+}
+
+.cat-card{
+	font-size: 20px;
 }

@@ -1,8 +1,12 @@
 h4{
 	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 40px;
+	font-family: "Times New Roman";
 }
 
-.about-us-paragraph, #about-us{
+.about-us-paragraph{
 	margin-left: 50px;
 	margin-right: 50px;
 }
@@ -16,9 +20,9 @@ h4{
 }
 
 .card:hover{
-	border-color: #FCACBF;
+	border-color: #FABDE2;
 	border-width: 3px;
-	transform: scale(1.02);
+	transform: scale(1.05);
 }
 /*.about-us-cards{
 	display: flex;
