@@ -1,6 +1,6 @@
 
 #about-us{
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 .about-us-paragraph, #about-us{
@@ -8,6 +8,9 @@
 	margin-right: 50px;
 }
 
+.cards{
+	margin-top: 50px;
+}
 /*.about-us-cards{
 	display: flex;
 	justify-content: center;
