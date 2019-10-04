@@ -1,0 +1,14 @@
+.navbar-brand{
+	font-family: "Times New Roman";
+	font-size: 48px;
+
+	margin-left: 14px;
+}
+
+.nav-link{
+	color: #5F5F5F;
+}
+
+.nav-link:hover {
+	color: #000000;
+}
